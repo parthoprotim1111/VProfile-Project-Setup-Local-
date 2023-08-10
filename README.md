@@ -1,6 +1,6 @@
 # About The Project
 
--> Multi Tier Web Application Stack \n
+-> Multi Tier Web Application Stack
 -> Setup on Laptop/Desktop
 -> Helps to setup any project locally
 ---
